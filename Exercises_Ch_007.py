@@ -3,6 +3,10 @@
 # Chapter 7: Decision Structures
 # End-of-Chapter Exercises
 #
+#   School: Broward College
+#   Course: COP100C
+#   Student Name: Joel Perez (Intro to Computer Programming) 
+#
 # REVIEW QUESTIONS
 #
 # True/False3
